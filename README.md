@@ -30,7 +30,9 @@ For curious minds, I have used the following for my portfolio:
 2) Back End: Supabase and MYSQL
 3) Deployment: Vercel App
 
-Thank you for the guided tour of AbrarisLive. In case you want to connect with me for feedback or just want to talk to me. Feel free to reach out to me at,
+Thank you for the guided tour of AbrarisLive. In case you want to connect with me for feedback or just want to talk to me. Feel free to reach out to me at
+
 Linkedin: https://www.linkedin.com/in/abrar-ahmad-36b949271/
+
 Email: https://mail.google.com/mail/u/0/?fs=1&to=abrarahmad.professional@gmail.com&su=Subject&tf=cm
 
